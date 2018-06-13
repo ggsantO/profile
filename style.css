@@ -1,0 +1,91 @@
+
+h1{
+  color: red;
+  font-size: 70px;
+  font-family: "arial";
+  text-shadow: 1px 1px 10px yellow;
+
+}
+
+h2{
+  color: orange;
+  font-size: 30px;
+  font-family: "arial";
+}
+
+h4{
+  color: orange;
+  font-size: 30px;
+  font-family: "arial";
+    margin-bottom: -5px;
+    margin-top: 70px;
+}
+
+p {
+  text-align: justify;
+  font-size: 30px;
+  font-family: "arial";
+  padding: 50px;
+  text-shadow: 0px 0px 5px darkgreen;
+
+}
+
+
+body {
+  color: #FF9F1C;
+  background-color: lightblue;
+  text-align: center;
+
+}
+
+
+
+
+
+/*div {
+  width: 300px;
+  height:300px;
+  border-radius: 150;
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: 0 auto
+}*/
+
+#avatar {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 3px darkgray;
+}
+
+.locandina {
+  height: 400px;
+  width: 300px;
+}
+
+#tabella {
+  margin: 0 auto;
+}
+
+.film-title {
+  font-size: 1.5em;
+  color: red;
+  font-weight: bolder;
+  margin-top: 65px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  font-size: 20px;
+}
